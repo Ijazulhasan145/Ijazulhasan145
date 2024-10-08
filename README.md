@@ -1,3 +1,4 @@
+![logo](https://github.com/Ijazulhasan145/ijazulhasan145/blob/main/git.png)
 <h1 align="center">Hi 👋, I'm Ijaz Ul Hassan</h1>
 <h3 align="center">A passionate data scientist from Pakistan</h3>
 
